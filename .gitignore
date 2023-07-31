@@ -1,0 +1,41 @@
+*.class
+
+# idea 
+*.ipr
+*.iml
+*.iws
+.idea/
+help.md
+
+# Maven 
+target/
+mvnw
+mvnw.*
+.mvn/*
+
+# Gradle
+build
+.gradle
+
+# log
+*.log
+log/
+
+# out
+**/out/
+
+# Mac
+.DS_Store
+# others
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.pid
+*.orig
+temp/
+
+# vim 
+*.un~
+*.*~
